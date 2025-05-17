@@ -1,0 +1,8 @@
+.ds_store
+.env
+.git
+.tenants.json
+.tenants.key
+.tenants.secure
+node_modules
+package-lock.json
